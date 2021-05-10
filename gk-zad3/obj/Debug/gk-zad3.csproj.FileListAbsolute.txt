@@ -1,0 +1,11 @@
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\bin\Debug\gk-zad3.exe.config
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\bin\Debug\gk-zad3.exe
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\bin\Debug\gk-zad3.pdb
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk-zad3.csprojAssemblyReference.cache
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk_zad3.Form1.resources
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk_zad3.Properties.Resources.resources
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk-zad3.csproj.GenerateResource.cache
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk-zad3.csproj.CoreCompileInputs.cache
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk-zad3.exe
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk-zad3.pdb
+C:\Users\Krzychu\source\repos\gk-zad3\gk-zad3\obj\Debug\gk_zad3.Form2.resources
